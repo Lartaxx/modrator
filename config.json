@@ -1,0 +1,16 @@
+{
+    "_comment": "true to activate, false to desactivate | Don't touch this, this case doesn't have any action in the code.",
+
+    "token": "your_token",
+
+    "bdd": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "",
+        "database": "modrator",
+        "port": 3308
+    },
+
+    "whitelist": true, 
+    "blacklist": true
+}
