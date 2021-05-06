@@ -4,7 +4,7 @@
 > *Blacklist, whitelist* !
 
 > ## __Available commands__
-*!add_blacklist @member reason*
+*!add_blacklist @member reason* <br>
 *!add_whitelist @member*
 
 **!! For each order be sure to mention the person where it can be mentioned! !!**
